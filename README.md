@@ -6,7 +6,7 @@
 
 Aplicações desktop, mobile e web · Automação · Integrações · Experiência de produto
 
-[GitHub](https://github.com/joaomendesz) · [X / Twitter](https://x.com/JoakMendes) · Brasil
+[GitHub](https://github.com/joaomendesz) · Brasil
 
 </div>
 
