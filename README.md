@@ -130,7 +130,6 @@ Aplicativo mobile para acompanhar conquistas da Steam e conectar jogadores que b
 Para acompanhar meus projetos, trocar ideias ou conversar sobre uma colaboração:
 
 - GitHub: [@joaomendesz](https://github.com/joaomendesz)
-- X / Twitter: [@JoakMendes](https://x.com/JoakMendes)
 
 <div align="center">
 
